@@ -1,0 +1,97 @@
+
+    #topo {
+        
+        height: 70px;
+        background-color: #16453E;
+    }
+    
+    #menu {
+        color: white;
+    }
+    
+    #menu p {
+        float: left;
+        margin-right: 30px;
+        margin-top: 20px;
+        padding-left: 10px;
+       
+    }
+    
+
+
+
+.offer-section {
+    padding: 50px 0;
+}
+
+.offer-section h2 {
+    font-size: 2rem;
+    margin-bottom: 30px;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease-in-out;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    margin-bottom: 10px;
+}
+
+.card-text {
+    font-size: 1rem;
+    margin-bottom: 10px;
+}
+
+.card ul {
+    padding-left: 20px;
+    margin-bottom: 10px;
+}
+.card body{
+    background-color: #16453E;
+}
+
+footer {
+    background-color: #333;
+    padding: 40px 0;
+    color: white;
+}
+
+footer h5 {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+
+footer ul {
+    list-style: none;
+    padding: 0;
+}
+
+footer ul li {
+    margin-bottom: 10px;
+}
+
+footer ul a {
+    color: white;
+    text-decoration: none;
+}
+
+footer ul a:hover {
+    text-decoration: underline;
+}
+
+.list-inline-item a:hover {
+    text-decoration: underline;
+}
+
